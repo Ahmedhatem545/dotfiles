@@ -1,0 +1,13 @@
+[
+    {
+        "display_name": "",
+        "enabled": false,
+        "encoders": [],
+        "id": "",
+        "module_name": "obs-websocket-compat",
+        "outputs": [],
+        "services": [],
+        "sources": [],
+        "version": ""
+    }
+]

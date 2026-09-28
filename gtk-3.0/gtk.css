@@ -1,0 +1,50 @@
+@import 'colors.css';
+
+/* ── Thunar transparent background ── */
+.thunar {
+    background-color: rgba(0, 0, 0, 0.50);
+}
+
+.thunar .view,
+.thunar iconview,
+.thunar treeview {
+    background-color: rgba(0, 0, 0, 0.30);
+}
+
+.thunar .sidebar,
+.thunar .sidebar .view,
+.thunar .sidebar treeview {
+    background-color: rgba(0, 0, 0, 0.20);
+}
+
+.thunar toolbar,
+.thunar .toolbar,
+.thunar .pathbar,
+.thunar .path-bar-container {
+    background-color: rgba(0, 0, 0, 0.40);
+}
+
+.thunar statusbar {
+    background-color: rgba(0, 0, 0, 0.40);
+}
+
+.thunar notebook,
+.thunar notebook header,
+.thunar notebook header tabs,
+.thunar .frame {
+    background-color: transparent;
+}
+
+/* Remove black boxes around file/folder text */
+.thunar .standard-view widget.view,
+.thunar iconview cell,
+.thunar treeview cell,
+.thunar .view cell,
+.thunar cell text,
+.thunar iconview text,
+.thunar treeview text,
+.thunar text {
+    background: transparent;
+    background-color: transparent;
+    background-image: none;
+}

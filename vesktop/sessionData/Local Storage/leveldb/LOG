@@ -1,0 +1,321 @@
+2026/09/19-22:03:05.477 5e8 Reusing MANIFEST /home/ahmed-work/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/09/19-22:03:05.503 5e8 Recovering log #843
+2026/09/19-22:03:05.504 5e8 Reusing old log /home/ahmed-work/.config/vesktop/sessionData/Local Storage/leveldb/000843.log 
+2026/09/19-22:04:05.514 60b Level-0 table #847: started
+2026/09/19-22:04:05.518 60b Level-0 table #847: 68602 bytes OK
+2026/09/19-22:04:05.520 60b Delete type=0 #843
+2026/09/19-22:05:06.098 60b Level-0 table #849: started
+2026/09/19-22:05:06.101 60b Level-0 table #849: 26527 bytes OK
+2026/09/19-22:05:06.103 60b Delete type=0 #846
+2026/09/19-22:05:06.103 60b Compacting 4@0 + 1@1 files
+2026/09/19-22:05:06.106 60b Generated table #850@0: 58 keys, 56582 bytes
+2026/09/19-22:05:06.106 60b Compacted 4@0 + 1@1 files => 56582 bytes
+2026/09/19-22:05:06.108 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-22:05:06.108 60b Delete type=2 #842
+2026/09/19-22:05:06.108 60b Delete type=2 #849
+2026/09/19-22:05:06.108 60b Delete type=2 #847
+2026/09/19-22:05:06.108 60b Delete type=2 #844
+2026/09/19-22:05:06.108 60b Delete type=2 #840
+2026/09/19-22:09:06.097 60b Level-0 table #852: started
+2026/09/19-22:09:06.099 60b Level-0 table #852: 32492 bytes OK
+2026/09/19-22:09:06.101 60b Delete type=0 #848
+2026/09/19-22:13:06.098 60b Level-0 table #854: started
+2026/09/19-22:13:06.100 60b Level-0 table #854: 32711 bytes OK
+2026/09/19-22:13:06.102 60b Delete type=0 #851
+2026/09/19-22:17:06.097 60b Level-0 table #856: started
+2026/09/19-22:17:06.104 60b Level-0 table #856: 31369 bytes OK
+2026/09/19-22:17:06.120 60b Delete type=0 #853
+2026/09/19-22:21:06.097 60b Level-0 table #858: started
+2026/09/19-22:21:06.130 60b Level-0 table #858: 30286 bytes OK
+2026/09/19-22:21:06.163 60b Delete type=0 #855
+2026/09/19-22:21:06.163 60b Compacting 4@0 + 1@1 files
+2026/09/19-22:21:06.189 60b Generated table #859@0: 58 keys, 56503 bytes
+2026/09/19-22:21:06.189 60b Compacted 4@0 + 1@1 files => 56503 bytes
+2026/09/19-22:21:06.222 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-22:21:06.222 60b Delete type=2 #858
+2026/09/19-22:21:06.222 60b Delete type=2 #856
+2026/09/19-22:21:06.222 60b Delete type=2 #854
+2026/09/19-22:21:06.222 60b Delete type=2 #850
+2026/09/19-22:21:06.222 60b Delete type=2 #852
+2026/09/19-22:25:06.098 60b Level-0 table #861: started
+2026/09/19-22:25:06.102 60b Level-0 table #861: 31337 bytes OK
+2026/09/19-22:25:06.104 60b Delete type=0 #857
+2026/09/19-22:29:06.098 60b Level-0 table #863: started
+2026/09/19-22:29:06.102 60b Level-0 table #863: 30198 bytes OK
+2026/09/19-22:29:06.104 60b Delete type=0 #860
+2026/09/19-22:33:06.098 60b Level-0 table #865: started
+2026/09/19-22:33:06.101 60b Level-0 table #865: 30240 bytes OK
+2026/09/19-22:33:06.103 60b Delete type=0 #862
+2026/09/19-22:37:06.097 60b Level-0 table #867: started
+2026/09/19-22:37:06.101 60b Level-0 table #867: 30189 bytes OK
+2026/09/19-22:37:06.103 60b Delete type=0 #864
+2026/09/19-22:37:06.103 60b Compacting 4@0 + 1@1 files
+2026/09/19-22:37:06.105 60b Generated table #868@0: 58 keys, 56510 bytes
+2026/09/19-22:37:06.105 60b Compacted 4@0 + 1@1 files => 56510 bytes
+2026/09/19-22:37:06.107 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-22:37:06.107 60b Delete type=2 #865
+2026/09/19-22:37:06.107 60b Delete type=2 #861
+2026/09/19-22:37:06.107 60b Delete type=2 #863
+2026/09/19-22:37:06.107 60b Delete type=2 #859
+2026/09/19-22:37:06.107 60b Delete type=2 #867
+2026/09/19-22:41:06.098 60b Level-0 table #870: started
+2026/09/19-22:41:06.102 60b Level-0 table #870: 42270 bytes OK
+2026/09/19-22:41:06.104 60b Delete type=0 #866
+2026/09/19-22:44:06.097 60b Level-0 table #872: started
+2026/09/19-22:44:06.101 60b Level-0 table #872: 35083 bytes OK
+2026/09/19-22:44:06.103 60b Delete type=0 #869
+2026/09/19-22:48:06.098 60b Level-0 table #874: started
+2026/09/19-22:48:06.102 60b Level-0 table #874: 30071 bytes OK
+2026/09/19-22:48:06.104 60b Delete type=0 #871
+2026/09/19-22:52:06.098 60b Level-0 table #876: started
+2026/09/19-22:52:06.101 60b Level-0 table #876: 30096 bytes OK
+2026/09/19-22:52:06.103 60b Delete type=0 #873
+2026/09/19-22:52:06.103 60b Compacting 4@0 + 1@1 files
+2026/09/19-22:52:06.106 60b Generated table #877@0: 58 keys, 56685 bytes
+2026/09/19-22:52:06.106 60b Compacted 4@0 + 1@1 files => 56685 bytes
+2026/09/19-22:52:06.108 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-22:52:06.108 60b Delete type=2 #868
+2026/09/19-22:52:06.108 60b Delete type=2 #870
+2026/09/19-22:52:06.108 60b Delete type=2 #872
+2026/09/19-22:52:06.108 60b Delete type=2 #876
+2026/09/19-22:52:06.108 60b Delete type=2 #874
+2026/09/19-22:56:06.098 60b Level-0 table #879: started
+2026/09/19-22:56:06.102 60b Level-0 table #879: 29967 bytes OK
+2026/09/19-22:56:06.103 60b Delete type=0 #875
+2026/09/19-23:00:06.098 60b Level-0 table #881: started
+2026/09/19-23:00:06.104 60b Level-0 table #881: 29773 bytes OK
+2026/09/19-23:00:06.106 60b Delete type=0 #878
+2026/09/19-23:04:06.098 60b Level-0 table #883: started
+2026/09/19-23:04:06.102 60b Level-0 table #883: 29993 bytes OK
+2026/09/19-23:04:06.104 60b Delete type=0 #880
+2026/09/19-23:08:06.098 60b Level-0 table #885: started
+2026/09/19-23:08:06.105 60b Level-0 table #885: 30236 bytes OK
+2026/09/19-23:08:06.107 60b Delete type=0 #882
+2026/09/19-23:08:06.107 60b Compacting 4@0 + 1@1 files
+2026/09/19-23:08:06.110 60b Generated table #886@0: 58 keys, 56704 bytes
+2026/09/19-23:08:06.110 60b Compacted 4@0 + 1@1 files => 56704 bytes
+2026/09/19-23:08:06.112 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-23:08:06.112 60b Delete type=2 #877
+2026/09/19-23:08:06.112 60b Delete type=2 #885
+2026/09/19-23:08:06.112 60b Delete type=2 #883
+2026/09/19-23:08:06.112 60b Delete type=2 #879
+2026/09/19-23:08:06.113 60b Delete type=2 #881
+2026/09/19-23:12:06.097 60b Level-0 table #888: started
+2026/09/19-23:12:06.101 60b Level-0 table #888: 29856 bytes OK
+2026/09/19-23:12:06.103 60b Delete type=0 #884
+2026/09/19-23:16:06.098 60b Level-0 table #890: started
+2026/09/19-23:16:06.102 60b Level-0 table #890: 29889 bytes OK
+2026/09/19-23:16:06.104 60b Delete type=0 #887
+2026/09/19-23:20:06.097 60b Level-0 table #892: started
+2026/09/19-23:20:06.101 60b Level-0 table #892: 30174 bytes OK
+2026/09/19-23:20:06.103 60b Delete type=0 #889
+2026/09/19-23:24:06.098 60b Level-0 table #894: started
+2026/09/19-23:24:06.102 60b Level-0 table #894: 30182 bytes OK
+2026/09/19-23:24:06.105 60b Delete type=0 #891
+2026/09/19-23:24:06.105 60b Compacting 4@0 + 1@1 files
+2026/09/19-23:24:06.108 60b Generated table #895@0: 58 keys, 56696 bytes
+2026/09/19-23:24:06.109 60b Compacted 4@0 + 1@1 files => 56696 bytes
+2026/09/19-23:24:06.110 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-23:24:06.110 60b Delete type=2 #890
+2026/09/19-23:24:06.110 60b Delete type=2 #886
+2026/09/19-23:24:06.110 60b Delete type=2 #894
+2026/09/19-23:24:06.110 60b Delete type=2 #892
+2026/09/19-23:24:06.110 60b Delete type=2 #888
+2026/09/19-23:28:06.097 60b Level-0 table #897: started
+2026/09/19-23:28:06.101 60b Level-0 table #897: 30132 bytes OK
+2026/09/19-23:28:06.103 60b Delete type=0 #893
+2026/09/19-23:32:06.097 60b Level-0 table #899: started
+2026/09/19-23:32:06.099 60b Level-0 table #899: 30067 bytes OK
+2026/09/19-23:32:06.101 60b Delete type=0 #896
+2026/09/19-23:36:06.098 60b Level-0 table #901: started
+2026/09/19-23:36:06.102 60b Level-0 table #901: 29953 bytes OK
+2026/09/19-23:36:06.104 60b Delete type=0 #898
+2026/09/19-23:40:06.097 60b Level-0 table #903: started
+2026/09/19-23:40:06.099 60b Level-0 table #903: 30076 bytes OK
+2026/09/19-23:40:06.101 60b Delete type=0 #900
+2026/09/19-23:40:06.101 60b Compacting 4@0 + 1@1 files
+2026/09/19-23:40:06.104 60b Generated table #904@0: 58 keys, 56734 bytes
+2026/09/19-23:40:06.104 60b Compacted 4@0 + 1@1 files => 56734 bytes
+2026/09/19-23:40:06.105 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-23:40:06.105 60b Delete type=2 #899
+2026/09/19-23:40:06.105 60b Delete type=2 #895
+2026/09/19-23:40:06.105 60b Delete type=2 #901
+2026/09/19-23:40:06.105 60b Delete type=2 #903
+2026/09/19-23:40:06.105 60b Delete type=2 #897
+2026/09/19-23:44:06.098 60b Level-0 table #906: started
+2026/09/19-23:44:06.101 60b Level-0 table #906: 30006 bytes OK
+2026/09/19-23:44:06.103 60b Delete type=0 #902
+2026/09/19-23:48:06.097 60b Level-0 table #908: started
+2026/09/19-23:48:06.101 60b Level-0 table #908: 29798 bytes OK
+2026/09/19-23:48:06.103 60b Delete type=0 #905
+2026/09/19-23:52:06.098 60b Level-0 table #910: started
+2026/09/19-23:52:06.102 60b Level-0 table #910: 30292 bytes OK
+2026/09/19-23:52:06.104 60b Delete type=0 #907
+2026/09/19-23:56:06.098 60b Level-0 table #912: started
+2026/09/19-23:56:06.100 60b Level-0 table #912: 30280 bytes OK
+2026/09/19-23:56:06.103 60b Delete type=0 #909
+2026/09/19-23:56:06.103 60b Compacting 4@0 + 1@1 files
+2026/09/19-23:56:06.109 60b Generated table #913@0: 58 keys, 56764 bytes
+2026/09/19-23:56:06.109 60b Compacted 4@0 + 1@1 files => 56764 bytes
+2026/09/19-23:56:06.111 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/19-23:56:06.111 60b Delete type=2 #904
+2026/09/19-23:56:06.111 60b Delete type=2 #910
+2026/09/19-23:56:06.111 60b Delete type=2 #912
+2026/09/19-23:56:06.111 60b Delete type=2 #906
+2026/09/19-23:56:06.111 60b Delete type=2 #908
+2026/09/19-23:57:06.098 60b Level-0 table #915: started
+2026/09/19-23:57:06.102 60b Level-0 table #915: 27785 bytes OK
+2026/09/19-23:57:06.107 60b Delete type=0 #911
+2026/09/20-00:01:06.097 60b Level-0 table #917: started
+2026/09/20-00:01:06.102 60b Level-0 table #917: 30053 bytes OK
+2026/09/20-00:01:06.103 60b Delete type=0 #914
+2026/09/20-00:05:06.097 60b Level-0 table #919: started
+2026/09/20-00:05:06.101 60b Level-0 table #919: 30151 bytes OK
+2026/09/20-00:05:06.103 60b Delete type=0 #916
+2026/09/20-00:09:06.097 60b Level-0 table #921: started
+2026/09/20-00:09:06.099 60b Level-0 table #921: 30010 bytes OK
+2026/09/20-00:09:06.101 60b Delete type=0 #918
+2026/09/20-00:09:06.101 60b Compacting 4@0 + 1@1 files
+2026/09/20-00:09:06.104 60b Generated table #922@0: 58 keys, 56817 bytes
+2026/09/20-00:09:06.104 60b Compacted 4@0 + 1@1 files => 56817 bytes
+2026/09/20-00:09:06.106 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-00:09:06.106 60b Delete type=2 #915
+2026/09/20-00:09:06.106 60b Delete type=2 #919
+2026/09/20-00:09:06.106 60b Delete type=2 #913
+2026/09/20-00:09:06.106 60b Delete type=2 #921
+2026/09/20-00:09:06.106 60b Delete type=2 #917
+2026/09/20-00:13:06.099 60b Level-0 table #924: started
+2026/09/20-00:13:06.102 60b Level-0 table #924: 35485 bytes OK
+2026/09/20-00:13:06.104 60b Delete type=0 #920
+2026/09/20-00:17:06.097 60b Level-0 table #926: started
+2026/09/20-00:17:06.101 60b Level-0 table #926: 31173 bytes OK
+2026/09/20-00:17:06.103 60b Delete type=0 #923
+2026/09/20-00:21:06.098 60b Level-0 table #928: started
+2026/09/20-00:21:06.102 60b Level-0 table #928: 30785 bytes OK
+2026/09/20-00:21:06.103 60b Delete type=0 #925
+2026/09/20-00:25:06.097 60b Level-0 table #930: started
+2026/09/20-00:25:06.100 60b Level-0 table #930: 30735 bytes OK
+2026/09/20-00:25:06.102 60b Delete type=0 #927
+2026/09/20-00:25:06.102 60b Compacting 4@0 + 1@1 files
+2026/09/20-00:25:06.105 60b Generated table #931@0: 58 keys, 57199 bytes
+2026/09/20-00:25:06.105 60b Compacted 4@0 + 1@1 files => 57199 bytes
+2026/09/20-00:25:06.107 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-00:25:06.107 60b Delete type=2 #930
+2026/09/20-00:25:06.107 60b Delete type=2 #926
+2026/09/20-00:25:06.107 60b Delete type=2 #922
+2026/09/20-00:25:06.107 60b Delete type=2 #924
+2026/09/20-00:25:06.107 60b Delete type=2 #928
+2026/09/20-00:29:06.098 60b Level-0 table #933: started
+2026/09/20-00:29:06.101 60b Level-0 table #933: 30500 bytes OK
+2026/09/20-00:29:06.103 60b Delete type=0 #929
+2026/09/20-00:33:06.097 60b Level-0 table #935: started
+2026/09/20-00:33:06.103 60b Level-0 table #935: 31856 bytes OK
+2026/09/20-00:33:06.111 60b Delete type=0 #932
+2026/09/20-00:37:06.097 60b Level-0 table #937: started
+2026/09/20-00:37:06.101 60b Level-0 table #937: 30796 bytes OK
+2026/09/20-00:37:06.102 60b Delete type=0 #934
+2026/09/20-00:41:06.098 60b Level-0 table #939: started
+2026/09/20-00:41:06.102 60b Level-0 table #939: 30529 bytes OK
+2026/09/20-00:41:06.104 60b Delete type=0 #936
+2026/09/20-00:41:06.104 60b Compacting 4@0 + 1@1 files
+2026/09/20-00:41:06.106 60b Generated table #940@0: 58 keys, 57193 bytes
+2026/09/20-00:41:06.107 60b Compacted 4@0 + 1@1 files => 57193 bytes
+2026/09/20-00:41:06.108 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-00:41:06.108 60b Delete type=2 #937
+2026/09/20-00:41:06.108 60b Delete type=2 #931
+2026/09/20-00:41:06.108 60b Delete type=2 #939
+2026/09/20-00:41:06.108 60b Delete type=2 #935
+2026/09/20-00:41:06.108 60b Delete type=2 #933
+2026/09/20-00:45:06.098 60b Level-0 table #942: started
+2026/09/20-00:45:06.102 60b Level-0 table #942: 30786 bytes OK
+2026/09/20-00:45:06.104 60b Delete type=0 #938
+2026/09/20-00:49:06.097 60b Level-0 table #944: started
+2026/09/20-00:49:06.101 60b Level-0 table #944: 41033 bytes OK
+2026/09/20-00:49:06.103 60b Delete type=0 #941
+2026/09/20-00:53:06.097 60b Level-0 table #946: started
+2026/09/20-00:53:06.101 60b Level-0 table #946: 32369 bytes OK
+2026/09/20-00:53:06.103 60b Delete type=0 #943
+2026/09/20-00:57:06.098 60b Level-0 table #948: started
+2026/09/20-00:57:06.102 60b Level-0 table #948: 30390 bytes OK
+2026/09/20-00:57:06.104 60b Delete type=0 #945
+2026/09/20-00:57:06.104 60b Compacting 4@0 + 1@1 files
+2026/09/20-00:57:06.107 60b Generated table #949@0: 58 keys, 57249 bytes
+2026/09/20-00:57:06.107 60b Compacted 4@0 + 1@1 files => 57249 bytes
+2026/09/20-00:57:06.108 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-00:57:06.108 60b Delete type=2 #944
+2026/09/20-00:57:06.109 60b Delete type=2 #948
+2026/09/20-00:57:06.109 60b Delete type=2 #940
+2026/09/20-00:57:06.109 60b Delete type=2 #942
+2026/09/20-00:57:06.109 60b Delete type=2 #946
+2026/09/20-01:01:06.098 60b Level-0 table #951: started
+2026/09/20-01:01:06.104 60b Level-0 table #951: 32783 bytes OK
+2026/09/20-01:01:06.118 60b Delete type=0 #947
+2026/09/20-01:05:06.097 60b Level-0 table #953: started
+2026/09/20-01:05:06.101 60b Level-0 table #953: 30567 bytes OK
+2026/09/20-01:05:06.103 60b Delete type=0 #950
+2026/09/20-01:09:06.097 60b Level-0 table #955: started
+2026/09/20-01:09:06.101 60b Level-0 table #955: 30376 bytes OK
+2026/09/20-01:09:06.103 60b Delete type=0 #952
+2026/09/20-01:13:06.098 60b Level-0 table #957: started
+2026/09/20-01:13:06.101 60b Level-0 table #957: 30422 bytes OK
+2026/09/20-01:13:06.103 60b Delete type=0 #954
+2026/09/20-01:13:06.103 60b Compacting 4@0 + 1@1 files
+2026/09/20-01:13:06.106 60b Generated table #958@0: 59 keys, 57335 bytes
+2026/09/20-01:13:06.106 60b Compacted 4@0 + 1@1 files => 57335 bytes
+2026/09/20-01:13:06.108 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-01:13:06.108 60b Delete type=2 #949
+2026/09/20-01:13:06.108 60b Delete type=2 #957
+2026/09/20-01:13:06.108 60b Delete type=2 #955
+2026/09/20-01:13:06.108 60b Delete type=2 #953
+2026/09/20-01:13:06.108 60b Delete type=2 #951
+2026/09/20-01:17:06.098 60b Level-0 table #960: started
+2026/09/20-01:17:06.102 60b Level-0 table #960: 30585 bytes OK
+2026/09/20-01:17:06.104 60b Delete type=0 #956
+2026/09/20-01:21:06.097 60b Level-0 table #962: started
+2026/09/20-01:21:06.099 60b Level-0 table #962: 30523 bytes OK
+2026/09/20-01:21:06.100 60b Delete type=0 #959
+2026/09/20-01:25:06.097 60b Level-0 table #964: started
+2026/09/20-01:25:06.101 60b Level-0 table #964: 30705 bytes OK
+2026/09/20-01:25:06.102 60b Delete type=0 #961
+2026/09/20-01:29:06.098 60b Level-0 table #966: started
+2026/09/20-01:29:06.102 60b Level-0 table #966: 30531 bytes OK
+2026/09/20-01:29:06.104 60b Delete type=0 #963
+2026/09/20-01:29:06.104 60b Compacting 4@0 + 1@1 files
+2026/09/20-01:29:06.106 60b Generated table #967@0: 59 keys, 57253 bytes
+2026/09/20-01:29:06.107 60b Compacted 4@0 + 1@1 files => 57253 bytes
+2026/09/20-01:29:06.108 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-01:29:06.108 60b Delete type=2 #958
+2026/09/20-01:29:06.108 60b Delete type=2 #960
+2026/09/20-01:29:06.108 60b Delete type=2 #962
+2026/09/20-01:29:06.108 60b Delete type=2 #966
+2026/09/20-01:29:06.108 60b Delete type=2 #964
+2026/09/20-01:33:06.098 60b Level-0 table #969: started
+2026/09/20-01:33:06.102 60b Level-0 table #969: 30468 bytes OK
+2026/09/20-01:33:06.104 60b Delete type=0 #965
+2026/09/20-01:37:06.097 60b Level-0 table #971: started
+2026/09/20-01:37:06.099 60b Level-0 table #971: 31801 bytes OK
+2026/09/20-01:37:06.100 60b Delete type=0 #968
+2026/09/20-01:41:06.098 60b Level-0 table #973: started
+2026/09/20-01:41:06.101 60b Level-0 table #973: 30557 bytes OK
+2026/09/20-01:41:06.103 60b Delete type=0 #970
+2026/09/20-01:45:06.098 60b Level-0 table #975: started
+2026/09/20-01:45:06.102 60b Level-0 table #975: 30497 bytes OK
+2026/09/20-01:45:06.104 60b Delete type=0 #972
+2026/09/20-01:45:06.104 60b Compacting 4@0 + 1@1 files
+2026/09/20-01:45:06.107 60b Generated table #976@0: 59 keys, 57342 bytes
+2026/09/20-01:45:06.107 60b Compacted 4@0 + 1@1 files => 57342 bytes
+2026/09/20-01:45:06.109 60b compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/09/20-01:45:06.109 60b Delete type=2 #975
+2026/09/20-01:45:06.109 60b Delete type=2 #971
+2026/09/20-01:45:06.109 60b Delete type=2 #969
+2026/09/20-01:45:06.109 60b Delete type=2 #967
+2026/09/20-01:45:06.109 60b Delete type=2 #973
+2026/09/20-01:49:06.097 60b Level-0 table #978: started
+2026/09/20-01:49:06.101 60b Level-0 table #978: 30184 bytes OK
+2026/09/20-01:49:06.103 60b Delete type=0 #974
+2026/09/20-01:53:06.097 60b Level-0 table #980: started
+2026/09/20-01:53:06.103 60b Level-0 table #980: 30532 bytes OK
+2026/09/20-01:53:06.113 60b Delete type=0 #977
+2026/09/20-01:57:06.098 60b Level-0 table #982: started
+2026/09/20-01:57:06.105 60b Level-0 table #982: 30404 bytes OK
+2026/09/20-01:57:06.237 60b Delete type=0 #979

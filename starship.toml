@@ -1,0 +1,93 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+add_newline = false
+
+format = "[█](copper)$os$username[](bg:surface fg:copper)$directory[](fg:surface bg:sage)$git_branch$git_status[](fg:sage)\n$character"
+
+palette = 'melange_dark'
+
+[palettes.melange_dark]
+base = "#292522"
+surface = "#403a36"
+text = "#ece1d7"
+copper = "#e49b5d"
+gold = "#e6b450"
+sage = "#85b695"
+teal = "#89b8c2"
+plum = "#c092d6"
+brick = "#d7898c"
+
+[os]
+disabled = false
+style = "bg:copper fg:base"
+
+[os.symbols]
+Windows = "󰍲"
+Ubuntu = "󰕈"
+SUSE = ""
+Raspbian = "󰐿"
+Mint = "󰣭"
+Macos = ""
+Manjaro = ""
+Linux = "󰌽"
+Gentoo = "󰣨"
+Fedora = "󰣛"
+Alpine = ""
+Amazon = ""
+Android = ""
+Arch = "󰣇"
+Artix = "󰣇"
+CentOS = ""
+Debian = "󰣚"
+Redhat = "󱄛"
+RedHatEnterprise = "󱄛"
+
+[username]
+show_always = true
+style_user = "bg:copper fg:base"
+style_root = "bg:copper fg:brick"
+format = '[ $user ]($style)'
+
+[directory]
+style = "fg:text bg:surface"
+format = "[  $path ]($style)"
+truncation_length = 10
+truncation_symbol = "…/"
+truncate_to_repo = false
+
+[git_branch]
+symbol = ""
+style = "bg:sage"
+format = '[[ $symbol $branch ](fg:base bg:sage)]($style)'
+
+[git_status]
+style = "bg:sage"
+format = '[[($all_status$ahead_behind )](fg:base bg:sage)]($style)'
+
+[character]
+success_symbol = '[❯](fg:copper)'
+error_symbol = '[❯](fg:brick)'
+
+[status]
+disabled = false
+style = 'bg:surface'
+failure_style = 'bg:surface fg:brick'
+success_style = 'bg:surface fg:text'
+success_symbol = ""
+symbol = ""
+not_executable_symbol = ""
+not_found_symbol = ""
+sigint_symbol = ""
+signal_symbol = ""
+format = '[ $symbol $status ]($style)'
+
+[kubernetes]
+disabled = false
+style = "bg:surface fg:text"
+format = '[ $symbol$context( \($namespace\) )]($style)'
+
+[time]
+disabled = false
+time_format = "%Y-%m-%d %H:%M:%S"
+style = "bg:surface"
+format = '[[  $time ](fg:text bg:surface)]($style)'

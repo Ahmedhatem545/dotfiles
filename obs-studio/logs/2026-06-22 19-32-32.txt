@@ -1,0 +1,133 @@
+19:32:32.447: Platform: Wayland
+19:32:32.447: CPU Name: AMD Ryzen 5 4600G with Radeon Graphics
+19:32:32.447: CPU Speed: 405.590MHz
+19:32:32.448: Physical Cores: 6, Logical Cores: 12
+19:32:32.448: Physical Memory: 13860MB Total, 5212MB Free
+19:32:32.448: Kernel Version: Linux 7.0.12-arch1-1
+19:32:32.448: Distribution: "Arch Linux" Unknown
+19:32:32.448: Desktop Environment: Hyprland (Hyprland)
+19:32:32.448: Session Type: wayland
+19:32:32.449: Current Date/Time: 2026-06-22, 07:32:32 PM
+19:32:32.449: Browser Hardware Acceleration: true
+19:32:32.449: Qt Version: 6.11.1 (runtime), 6.11.1 (compiled)
+19:32:32.449: Portable mode: false
+19:32:32.483: OBS 32.1.2 (linux)
+19:32:32.483: ---------------------------------
+19:32:32.484: ---------------------------------
+19:32:32.484: audio settings reset:
+19:32:32.484: 	samples per sec: 48000
+19:32:32.484: 	speakers:        2
+19:32:32.484: 	max buffering:   960 milliseconds
+19:32:32.484: 	buffering type:  dynamically increasing
+19:32:32.485: ---------------------------------
+19:32:32.485: Initializing OpenGL...
+19:32:32.485: Using EGL/Wayland
+19:32:32.527: Initialized EGL 1.5
+19:32:32.546: Loading up OpenGL on adapter AMD AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 7.0.12-arch1-1)
+19:32:32.546: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 26.1.2-arch1.2, shading language 4.60
+19:32:32.577: ---------------------------------
+19:32:32.577: video settings reset:
+19:32:32.577: 	base resolution:   1920x1080
+19:32:32.577: 	output resolution: 1920x1080
+19:32:32.577: 	downscale filter:  Bicubic
+19:32:32.577: 	fps:               60/1
+19:32:32.577: 	format:            NV12
+19:32:32.577: 	YUV mode:          Rec. 709/Partial
+19:32:32.577: NV12 texture support enabled
+19:32:32.577: P010 texture support not available
+19:32:32.580: Audio monitoring device:
+19:32:32.580: 	name: Default
+19:32:32.580: 	id: default
+19:32:32.581: ---------------------------------
+19:32:32.582: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:32:32.584: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:32:32.585: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:32:32.585: Failed to initialize module 'decklink.so'
+19:32:32.709: [pipewire] No capture sources available
+19:32:32.715: v4l2loopback not installed, virtual camera not registered
+19:32:32.732: VAAPI: API version 1.23
+19:32:32.733: FFmpeg VAAPI H264 encoding supported
+19:32:32.738: FFmpeg VAAPI AV1 encoding not supported
+19:32:32.742: FFmpeg VAAPI HEVC encoding supported
+19:32:32.745: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+19:32:32.745: 
+19:32:32.745: NVENC not supported
+19:32:32.745: Failed to initialize module 'obs-nvenc.so'
+19:32:32.767: Skipping module 'obs-websocket-compat', is disabled
+19:32:32.769: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.7.3 | RPC Version: 1)
+19:32:32.769: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.11.1 | Qt version (run-time): 6.11.1
+19:32:32.769: [obs-websocket] [obs_module_load] Linked ASIO Version: 103800
+19:32:32.773: [obs-websocket] [obs_module_load] Module loaded.
+19:32:32.776: ---------------------------------
+19:32:32.776:   Loaded Modules:
+19:32:32.776:     text-freetype2.so
+19:32:32.776:     rtmp-services.so
+19:32:32.776:     obs-x264.so
+19:32:32.776:     obs-websocket.so
+19:32:32.776:     obs-webrtc.so
+19:32:32.776:     obs-vst.so
+19:32:32.776:     obs-transitions.so
+19:32:32.776:     obs-qsv11.so
+19:32:32.776:     obs-outputs.so
+19:32:32.776:     obs-libfdk.so
+19:32:32.776:     obs-filters.so
+19:32:32.776:     obs-ffmpeg.so
+19:32:32.776:     linux-v4l2.so
+19:32:32.776:     linux-pulseaudio.so
+19:32:32.776:     linux-pipewire.so
+19:32:32.776:     linux-jack.so
+19:32:32.776:     linux-capture.so
+19:32:32.776:     linux-alsa.so
+19:32:32.776:     image-source.so
+19:32:32.776:     frontend-tools.so
+19:32:32.776:     decklink-output-ui.so
+19:32:32.776:     decklink-captions.so
+19:32:32.776: ---------------------------------
+19:32:32.776: ---------------------------------
+19:32:32.776: Available Encoders:
+19:32:32.776:   Video Encoders:
+19:32:32.776: 	- ffmpeg_svt_av1 (SVT-AV1)
+19:32:32.776: 	- ffmpeg_aom_av1 (AOM AV1)
+19:32:32.776: 	- ffmpeg_vaapi_tex (FFmpeg VAAPI H.264)
+19:32:32.776: 	- hevc_ffmpeg_vaapi_tex (FFmpeg VAAPI HEVC)
+19:32:32.776: 	- obs_x264 (x264)
+19:32:32.776:   Audio Encoders:
+19:32:32.776: 	- ffmpeg_aac (FFmpeg AAC)
+19:32:32.776: 	- ffmpeg_opus (FFmpeg Opus)
+19:32:32.776: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+19:32:32.776: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+19:32:32.776: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+19:32:32.776: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+19:32:32.776: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+19:32:32.776: 	- libfdk_aac (libfdk AAC)
+19:32:32.776: ==== Startup complete ===============================================
+19:32:32.805: Failed to register with host portal QDBusError("org.freedesktop.DBus.Error.NameHasNoOwner", "Could not activate remote peer 'org.freedesktop.portal.Desktop': startup job failed")
+19:32:32.805: All scene data cleared
+19:32:32.805: ------------------------------------------------
+19:32:32.810: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+19:32:32.810: Deduplication logic is being applied to all monitored sources.
+19:32:32.810: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.6) 15.0.0'
+19:32:32.810: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+19:32:32.810: pulse-input: Started recording from 'alsa_output.pci-0000_30_00.6.analog-stereo.monitor' (default)
+19:32:32.810: [Loaded global audio device]: 'Desktop Audio'
+19:32:32.810: pulse-input: Server name: 'PulseAudio (on PipeWire 1.6.6) 15.0.0'
+19:32:32.811: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+19:32:32.811: pulse-input: Started recording from 'alsa_input.pci-0000_30_00.6.analog-stereo' (default)
+19:32:32.811: [Loaded global audio device]: 'Mic/Aux'
+19:32:32.811: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+19:32:32.815: Switched to scene 'Scene'
+19:32:32.815: ------------------------------------------------
+19:32:32.815: Loaded scenes:
+19:32:32.815: - scene 'Scene':
+19:32:32.815:     - source: 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source)
+19:32:32.815: ------------------------------------------------
+19:32:32.821: Device for 'Audio Output Capture' source Desktop Audio is also used for audio monitoring.
+19:32:32.821: Deduplication logic is being applied to all monitored sources.
+19:32:32.863: [camera-portal] Error accessing camera: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not activate remote peer 'org.freedesktop.portal.Desktop': startup job failed
+19:32:33.359: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+19:32:33.359: 
+19:34:25.911: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+19:34:25.913: User added source 'Video Capture Device (PipeWire) (BETA) 2' (pipewire-camera-source) to scene 'Scene'
+19:34:25.923: [camera-portal] Selected format for ''
+19:34:25.923: [camera-portal] selected camera ''
+19:35:11.977: The Wayland connection broke. Did the Wayland compositor die?

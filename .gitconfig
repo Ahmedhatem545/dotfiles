@@ -1,0 +1,10 @@
+[user]
+	name = ahmedwahbasw
+	emal = ahmedwahba.sw@gmail.com
+	email = 42310239.Ahmed@acu.edu.eg
+[init]
+	defaultBranch = main
+[core]
+	editor = code --wait
+[credential]
+	helper = store
